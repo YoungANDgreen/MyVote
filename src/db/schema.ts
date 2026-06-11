@@ -15,9 +15,11 @@ import {
 
 export const members = pgTable("members", {
   bioguideId: text("bioguide_id").primaryKey(),
+  // Senate.gov roll-call XML identifies senators by LIS id, not bioguide
+  lisId: text("lis_id"),
   chamber: text("chamber").notNull(), // 'house' | 'senate'
   state: text("state").notNull(),
-  district: text("district"), // null for senators
+  district: text("district"), // zero-padded ("01"; "00" = at-large); null for senators
   party: text("party").notNull(),
   fullName: text("full_name").notNull(),
   photoUrl: text("photo_url"),
@@ -121,4 +123,22 @@ export const geoSpending = pgTable(
     updatedAt: timestamp("updated_at").notNull().defaultNow(),
   },
   (t) => [primaryKey({ columns: [t.fiscalYear, t.geoLayer, t.geoId] })],
+);
+
+// IRS SOI county totals: what each county PAID IN. Joined with geo_spending
+// (countyFips = geo_spending.geo_id for the county layer) it yields the local
+// "dollars back per $100 paid in" ratio for the rarity engine.
+export const countyTax = pgTable(
+  "county_tax",
+  {
+    taxYear: integer("tax_year").notNull(),
+    countyFips: text("county_fips").notNull(), // 5-digit state+county FIPS
+    state: text("state").notNull(),
+    countyName: text("county_name").notNull(),
+    returns: integer("returns").notNull(),
+    agiThousands: numeric("agi_thousands", { precision: 20, scale: 2 }).notNull(),
+    incomeTaxThousands: numeric("income_tax_thousands", { precision: 20, scale: 2 }).notNull(),
+    updatedAt: timestamp("updated_at").notNull().defaultNow(),
+  },
+  (t) => [primaryKey({ columns: [t.taxYear, t.countyFips] })],
 );

@@ -1,0 +1,2779 @@
+- id:
+    bioguide: C000127
+    thomas: "00172"
+    lis: S275
+    govtrack: 300018
+    opensecrets: N00007836
+    votesmart: 27122
+    fec:
+      - S8WA00194
+      - H2WA01054
+    cspan: 26137
+    wikipedia: Maria Cantwell
+    house_history: 10608
+    ballotpedia: Maria Cantwell
+    maplight: 544
+    icpsr: 39310
+    wikidata: Q22250
+    google_entity_id: kg:/m/01x68t
+    pictorial: 13398
+  name:
+    first: Maria
+    last: Cantwell
+    official_full: Maria Cantwell
+  bio:
+    birthday: 1958-10-13
+    gender: F
+  terms:
+    - type: rep
+      start: 1993-01-05
+      end: 1995-01-03
+      state: WA
+      district: 1
+      party: Democrat
+    - type: sen
+      start: 2001-01-03
+      end: 2007-01-03
+      state: WA
+      class: 1
+      party: Democrat
+      url: http://cantwell.senate.gov
+    - type: sen
+      start: 2007-01-04
+      end: 2013-01-03
+      state: WA
+      class: 1
+      party: Democrat
+      url: http://cantwell.senate.gov
+      address: 311 HART SENATE OFFICE BUILDING WASHINGTON DC 20510
+      phone: 202-224-3441
+      fax: 202-228-0514
+      contact_form: http://www.cantwell.senate.gov/contact/
+      office: 311 Hart Senate Office Building
+    - type: sen
+      start: 2013-01-03
+      end: 2019-01-03
+      state: WA
+      party: Democrat
+      class: 1
+      url: https://www.cantwell.senate.gov
+      address: 511 Hart Senate Office Building Washington DC 20510
+      phone: 202-224-3441
+      fax: 202-228-0514
+      contact_form: http://www.cantwell.senate.gov/public/index.cfm/email-maria
+      office: 511 Hart Senate Office Building
+      state_rank: junior
+      rss_url: http://www.cantwell.senate.gov/public/index.cfm/rss/feed
+    - type: sen
+      start: 2019-01-03
+      end: 2025-01-03
+      state: WA
+      class: 1
+      party: Democrat
+      state_rank: junior
+      url: https://www.cantwell.senate.gov
+      rss_url: http://www.cantwell.senate.gov/public/index.cfm/rss/feed
+      contact_form: https://www.cantwell.senate.gov/public/index.cfm/email-maria
+      address: 511 Hart Senate Office Building Washington DC 20510
+      office: 511 Hart Senate Office Building
+      phone: 202-224-3441
+    - type: sen
+      start: 2025-01-03
+      end: 2031-01-03
+      state: WA
+      class: 1
+      state_rank: junior
+      party: Democrat
+      url: https://www.cantwell.senate.gov
+      rss_url: http://www.cantwell.senate.gov/public/index.cfm/rss/feed
+      contact_form: https://www.cantwell.senate.gov/public/index.cfm/email-maria
+      address: 511 Hart Senate Office Building Washington DC 20510
+      office: 511 Hart Senate Office Building
+      phone: 202-224-3441
+- id:
+    bioguide: C001056
+    thomas: "01692"
+    lis: S287
+    govtrack: 300027
+    opensecrets: N00024852
+    votesmart: 15375
+    fec:
+      - S2TX00106
+    cspan: 93131
+    wikipedia: John Cornyn
+    ballotpedia: John Cornyn
+    maplight: 553
+    icpsr: 40305
+    wikidata: Q719568
+    google_entity_id: kg:/m/01xcqs
+    pictorial: 13403
+  name:
+    first: John
+    last: Cornyn
+    official_full: John Cornyn
+  bio:
+    birthday: 1952-02-02
+    gender: M
+  leadership_roles:
+    - title: Senate Minority Whip
+      chamber: senate
+      start: 2013-01-03
+      end: 2015-01-03
+    - title: Senate Majority Whip
+      chamber: senate
+      start: 2015-01-03
+      end: 2017-01-03
+    - title: Senate Majority Whip
+      chamber: senate
+      start: 2017-01-03
+      end: 2019-01-03
+  terms:
+    - type: sen
+      start: 2002-11-30
+      end: 2003-01-03
+      state: TX
+      class: 2
+      party: Republican
+    - type: sen
+      start: 2003-01-07
+      end: 2009-01-03
+      state: TX
+      class: 2
+      party: Republican
+      url: http://cornyn.senate.gov/
+    - type: sen
+      start: 2009-01-06
+      end: 2015-01-03
+      state: TX
+      class: 2
+      party: Republican
+      url: http://www.cornyn.senate.gov
+      address: 517 Hart Senate Office Building Washington DC 20510
+      phone: 202-224-2934
+      fax: 202-228-2856
+      contact_form: http://www.cornyn.senate.gov/public/index.cfm?p=ContactForm
+      office: 517 Hart Senate Office Building
+      state_rank: senior
+      rss_url: http://www.cornyn.senate.gov/public/?a=rss.feed
+    - type: sen
+      start: 2015-01-06
+      end: 2021-01-03
+      state: TX
+      class: 2
+      party: Republican
+      url: https://www.cornyn.senate.gov
+      address: 517 Hart Senate Office Building Washington DC 20510
+      phone: 202-224-2934
+      fax: 202-228-2856
+      contact_form: https://www.cornyn.senate.gov/contact
+      office: 517 Hart Senate Office Building
+      state_rank: senior
+      rss_url: http://www.cornyn.senate.gov/public/?a=rss.feed
+    - type: sen
+      start: 2021-01-03
+      end: 2027-01-03
+      state: TX
+      class: 2
+      state_rank: senior
+      party: Republican
+      url: https://www.cornyn.senate.gov
+      rss_url: http://www.cornyn.senate.gov/public/?a=rss.feed
+      contact_form: https://www.cornyn.senate.gov/contact
+      address: 517 Hart Senate Office Building Washington DC 20510
+      office: 517 Hart Senate Office Building
+      phone: 202-224-2934
+- id:
+    bioguide: M000355
+    thomas: "01395"
+    lis: S174
+    govtrack: 300072
+    opensecrets: N00003389
+    votesmart: 53298
+    icpsr: 14921
+    fec:
+      - S2KY00012
+    cspan: 2351
+    wikipedia: Mitch McConnell
+    ballotpedia: Mitch McConnell
+    maplight: 593
+    wikidata: Q355522
+    google_entity_id: kg:/m/01z6ls
+    pictorial: 13357
+  name:
+    first: Mitch
+    last: McConnell
+    official_full: Mitch McConnell
+  bio:
+    birthday: 1942-02-20
+    gender: M
+  leadership_roles:
+    - title: Senate Minority Leader
+      chamber: senate
+      start: 2007-01-04
+      end: 2009-01-06
+    - title: Senate Minority Leader
+      chamber: senate
+      start: 2009-01-06
+      end: 2011-01-05
+    - title: Senate Minority Leader
+      chamber: senate
+      start: 2011-01-05
+      end: 2013-01-03
+    - title: Senate Minority Leader
+      chamber: senate
+      start: 2013-01-03
+      end: 2015-01-03
+    - title: Senate Majority Leader
+      chamber: senate
+      start: 2015-01-03
+      end: 2017-01-03
+    - title: Senate Majority Leader
+      chamber: senate
+      start: 2017-01-03
+      end: 2019-01-03
+    - title: Senate Majority Leader
+      chamber: senate
+      start: 2019-01-03
+      end: 2021-01-03
+    - title: Senate Majority Leader
+      chamber: senate
+      start: 2021-01-03
+      end: 2021-01-20
+    - title: Senate Minority Leader
+      chamber: senate
+      start: 2021-01-20
+      end: 2023-01-03
+    - title: Senate Minority Leader
+      chamber: senate
+      start: 2023-01-03
+      end: 2025-01-03
+  terms:
+    - type: sen
+      start: 1985-01-03
+      end: 1991-01-03
+      state: KY
+      class: 2
+      party: Republican
+    - type: sen
+      start: 1991-01-03
+      end: 1997-01-03
+      state: KY
+      class: 2
+      party: Republican
+    - type: sen
+      start: 1997-01-07
+      end: 2003-01-03
+      state: KY
+      class: 2
+      party: Republican
+    - type: sen
+      start: 2003-01-07
+      end: 2009-01-03
+      state: KY
+      class: 2
+      party: Republican
+      url: http://mcconnell.senate.gov/
+    - type: sen
+      start: 2009-01-06
+      end: 2015-01-03
+      state: KY
+      class: 2
+      party: Republican
+      url: http://www.mcconnell.senate.gov
+      address: 317 Russell Senate Office Building Washington DC 20510
+      phone: 202-224-2541
+      fax: 202-224-2499
+      contact_form: http://www.mcconnell.senate.gov/public/index.cfm?p=ContactForm
+      office: 317 Russell Senate Office Building
+      state_rank: senior
+      rss_url: http://www.mcconnell.senate.gov/public/?a=rss.feed
+    - type: sen
+      start: 2015-01-06
+      end: 2021-01-03
+      state: KY
+      class: 2
+      party: Republican
+      url: https://www.mcconnell.senate.gov
+      address: 317 Russell Senate Office Building Washington DC 20510
+      phone: 202-224-2541
+      fax: 202-224-2499
+      contact_form: http://www.mcconnell.senate.gov/public/index.cfm?p=contact
+      office: 317 Russell Senate Office Building
+      state_rank: senior
+      rss_url: http://www.mcconnell.senate.gov/public/?a=rss.feed
+    - type: sen
+      start: 2021-01-03
+      end: 2027-01-03
+      state: KY
+      class: 2
+      state_rank: senior
+      party: Republican
+      url: https://www.mcconnell.senate.gov
+      rss_url: http://www.mcconnell.senate.gov/public/?a=rss.feed
+      contact_form: https://www.mcconnell.senate.gov/public/index.cfm?p=contact
+      address: 317 Russell Senate Office Building Washington DC 20510
+      office: 317 Russell Senate Office Building
+      phone: 202-224-2541
+- id:
+    bioguide: W000805
+    thomas: "01897"
+    lis: S327
+    govtrack: 412321
+    opensecrets: N00002097
+    votesmart: 535
+    fec:
+      - S6VA00093
+      - P80003023
+    cspan: 7630
+    wikipedia: Mark Warner
+    ballotpedia: Mark Warner
+    maplight: 803
+    icpsr: 40909
+    wikidata: Q453893
+    google_entity_id: kg:/m/024mm1
+    pictorial: 13376
+  name:
+    first: Mark
+    middle: R.
+    last: Warner
+    official_full: Mark R. Warner
+  bio:
+    gender: M
+    birthday: 1954-12-15
+  leadership_roles:
+    - title: Senate Democratic Conference Vice Chair
+      chamber: senate
+      start: 2023-01-03
+      end: 2025-01-03
+    - title: Senate Democratic Conference Vice Chair
+      chamber: senate
+      start: 2025-01-03
+  terms:
+    - type: sen
+      start: 2009-01-06
+      end: 2015-01-03
+      state: VA
+      class: 2
+      party: Democrat
+      url: http://www.warner.senate.gov
+      address: 475 Russell Senate Office Building Washington DC 20510
+      phone: 202-224-2023
+      fax: 202-224-6295
+      contact_form: http://www.warner.senate.gov/public//index.cfm?p=ContactPage#form_f9db6196-2dc7-4cda-8add-f8435a71318a
+      office: 475 Russell Senate Office Building
+      state_rank: senior
+      rss_url: http://www.warner.senate.gov/public/?a=rss.feed
+    - type: sen
+      start: 2015-01-06
+      end: 2021-01-03
+      state: VA
+      class: 2
+      party: Democrat
+      url: https://www.warner.senate.gov
+      address: 703 Hart Senate Office Building Washington DC 20510
+      phone: 202-224-2023
+      fax: 202-224-6295
+      contact_form: http://www.warner.senate.gov/public/index.cfm?p=Contact
+      office: 703 Hart Senate Office Building
+      state_rank: senior
+      rss_url: http://www.warner.senate.gov/public/?a=rss.feed
+    - type: sen
+      start: 2021-01-03
+      end: 2027-01-03
+      state: VA
+      class: 2
+      state_rank: senior
+      party: Democrat
+      url: https://www.warner.senate.gov
+      rss_url: http://www.warner.senate.gov/public/?a=rss.feed
+      contact_form: https://www.warner.senate.gov/public/index.cfm?p=Contact
+      address: 703 Hart Senate Office Building Washington DC 20510
+      office: 703 Hart Senate Office Building
+      phone: 202-224-2023
+- id:
+    bioguide: H001046
+    thomas: "01937"
+    lis: S359
+    govtrack: 412281
+    opensecrets: N00029835
+    votesmart: 74517
+    fec:
+      - H8NM01224
+      - S2NM00088
+    cspan: 1030686
+    wikipedia: Martin Heinrich
+    house_history: 15588
+    ballotpedia: Martin Heinrich
+    maplight: 763
+    icpsr: 20930
+    wikidata: Q565374
+    google_entity_id: kg:/m/02qkv0r
+    pictorial: 13428
+  name:
+    first: Martin
+    last: Heinrich
+    official_full: Martin Heinrich
+  bio:
+    gender: M
+    birthday: 1971-10-17
+  terms:
+    - type: rep
+      start: 2009-01-06
+      end: 2011-01-03
+      state: NM
+      district: 1
+      party: Democrat
+      url: http://heinrich.house.gov
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: NM
+      district: 1
+      party: Democrat
+      url: http://heinrich.house.gov
+      address: 336 Cannon HOB; Washington DC 20515-3101
+      phone: 202-225-6316
+      fax: 202-225-4975
+      contact_form: https://forms.house.gov/heinrich/contact-form.shtml
+      office: 336 Cannon House Office Building
+    - type: sen
+      start: 2013-01-03
+      end: 2019-01-03
+      state: NM
+      party: Democrat
+      class: 1
+      url: https://www.heinrich.senate.gov
+      address: 303 Hart Senate Office Building Washington DC 20510
+      phone: 202-224-5521
+      fax: 202-225-4975
+      contact_form: http://www.heinrich.senate.gov/contact
+      office: 303 Hart Senate Office Building
+      state_rank: junior
+    - type: sen
+      start: 2019-01-03
+      end: 2025-01-03
+      state: NM
+      class: 1
+      party: Democrat
+      state_rank: senior
+      url: https://www.heinrich.senate.gov
+      contact_form: https://www.heinrich.senate.gov/contact
+      address: 709 Hart Senate Office Building Washington DC 20510
+      office: 709 Hart Senate Office Building
+      phone: 202-224-5521
+    - type: sen
+      start: 2025-01-03
+      end: 2031-01-03
+      state: NM
+      class: 1
+      state_rank: senior
+      party: Democrat
+      url: https://www.heinrich.senate.gov
+      contact_form: https://www.heinrich.senate.gov/contact
+      address: 709 Hart Senate Office Building Washington DC 20510
+      office: 709 Hart Senate Office Building
+      phone: 202-224-5521
+- id:
+    bioguide: L000570
+    thomas: "01939"
+    lis: S409
+    govtrack: 412293
+    opensecrets: N00029562
+    votesmart: 102842
+    fec:
+      - H8NM03196
+      - S0NM00058
+    cspan: 1031351
+    wikipedia: Ben Ray Luján
+    house_history: 17317
+    maplight: 775
+    icpsr: 20932
+    wikidata: Q324256
+    google_entity_id: kg:/m/0412qzq
+    ballotpedia: Ben Ray Luján
+  name:
+    first: Ben
+    middle: Ray
+    last: Luján
+    official_full: Ben Ray Luján
+  bio:
+    gender: M
+    birthday: 1972-06-07
+  leadership_roles:
+    - title: Assistant Speaker of the House
+      chamber: house
+      start: 2019-01-03
+      end: 2021-01-03
+  terms:
+    - type: rep
+      start: 2009-01-06
+      end: 2011-01-03
+      state: NM
+      district: 3
+      party: Democrat
+      url: http://lujan.house.gov
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: NM
+      district: 3
+      party: Democrat
+      url: http://lujan.house.gov
+      address: 330 Cannon HOB; Washington DC 20515-3103
+      phone: 202-225-6190
+      fax: 202-226-1528
+      contact_form: https://forms.house.gov/lujan/contact-form.shtml
+      office: 330 Cannon House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: NM
+      party: Democrat
+      district: 3
+      url: http://lujan.house.gov
+      address: 2446 Rayburn HOB; Washington DC 20515-3103
+      phone: 202-225-6190
+      fax: 202-226-1528
+      contact_form: https://forms.house.gov/lujan/contact-form.shtml
+      office: 2446 Rayburn House Office Building
+      rss_url: http://lujan.house.gov/index.php?option=com_bca-rss-syndicator&amp;feed_id=1
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: NM
+      party: Democrat
+      district: 3
+      url: http://lujan.house.gov
+      address: 2446 Rayburn HOB; Washington DC 20515-3103
+      phone: 202-225-6190
+      fax: 202-226-1528
+      contact_form: https://forms.house.gov/lujan/contact-form.shtml
+      office: 2446 Rayburn House Office Building
+      rss_url: http://lujan.house.gov/index.php?option=com_bca-rss-syndicator&amp;feed_id=1
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: NM
+      district: 3
+      party: Democrat
+      phone: 202-225-6190
+      url: https://lujan.house.gov
+      rss_url: http://lujan.house.gov/index.php?option=com_bca-rss-syndicator&amp;feed_id=1
+      address: 2231 Rayburn House Office Building; Washington DC 20515-3103
+      office: 2231 Rayburn House Office Building
+      fax: 202-226-1528
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: NM
+      district: 3
+      party: Democrat
+      phone: 202-225-6190
+      address: 2323 Rayburn House Office Building Washington DC 20515-3103
+      office: 2323 Rayburn House Office Building
+      url: https://lujan.house.gov
+      rss_url: http://lujan.house.gov/index.php?option=com_bca-rss-syndicator&amp;feed_id=1
+    - type: sen
+      start: 2021-01-03
+      end: 2027-01-03
+      state: NM
+      class: 2
+      state_rank: junior
+      party: Democrat
+      url: https://www.lujan.senate.gov
+      contact_form: https://www.lujan.senate.gov/contact/
+      address: 498 Russell Senate Office Building Washington DC 20510
+      office: 498 Russell Senate Office Building
+      phone: 202-224-6621
+- id:
+    bioguide: M001111
+    thomas: "01409"
+    lis: S229
+    govtrack: 300076
+    opensecrets: N00007876
+    votesmart: 53358
+    fec:
+      - S2WA00189
+    cspan: 25277
+    wikipedia: Patty Murray
+    house_history: 18715
+    ballotpedia: Patty Murray
+    maplight: 596
+    icpsr: 49308
+    wikidata: Q258825
+    google_entity_id: kg:/m/018qx5
+    pictorial: 13346
+  name:
+    first: Patty
+    last: Murray
+    official_full: Patty Murray
+  bio:
+    birthday: 1950-10-11
+    gender: F
+  leadership_roles:
+    - title: Assistant Senate Minority Leader
+      chamber: senate
+      start: 2019-01-03
+      end: 2021-01-03
+    - title: Assistant Senate Minority Leader
+      chamber: senate
+      start: 2021-01-03
+      end: 2021-01-20
+    - title: Assistant Senate Majority Leader
+      chamber: senate
+      start: 2021-01-20
+      end: 2023-01-03
+    - title: President Pro Tempore of the Senate
+      chamber: senate
+      start: 2021-01-03
+      end: 2025-01-03
+  terms:
+    - type: sen
+      start: 1993-01-05
+      end: 1999-01-03
+      state: WA
+      class: 3
+      party: Democrat
+    - type: sen
+      start: 1999-01-06
+      end: 2005-01-03
+      state: WA
+      class: 3
+      party: Democrat
+      url: http://murray.senate.gov/
+    - type: sen
+      start: 2005-01-04
+      end: 2011-01-03
+      state: WA
+      class: 3
+      party: Democrat
+      url: http://murray.senate.gov/
+    - type: sen
+      start: 2011-01-05
+      end: 2017-01-03
+      state: WA
+      class: 3
+      party: Democrat
+      url: http://www.murray.senate.gov
+      address: 154 Russell Senate Office Building Washington DC 20510
+      phone: 202-224-2621
+      fax: 202-224-0238
+      contact_form: http://www.murray.senate.gov/public/index.cfm/contactme
+      office: 154 Russell Senate Office Building
+      state_rank: senior
+      rss_url: http://www.murray.senate.gov/public/?a=rss.feed
+    - type: sen
+      start: 2017-01-03
+      end: 2023-01-03
+      state: WA
+      class: 3
+      state_rank: senior
+      party: Democrat
+      url: https://www.murray.senate.gov
+      rss_url: http://www.murray.senate.gov/public/?a=rss.feed
+      address: 154 Russell Senate Office Building Washington DC 20510
+      office: 154 Russell Senate Office Building
+      phone: 202-224-2621
+      contact_form: https://www.murray.senate.gov/write-to-patty/
+      fax: 202-224-0238
+    - type: sen
+      start: 2023-01-03
+      end: 2029-01-03
+      state: WA
+      class: 3
+      state_rank: senior
+      party: Democrat
+      url: https://www.murray.senate.gov
+      rss_url: http://www.murray.senate.gov/public/?a=rss.feed
+      contact_form: https://www.murray.senate.gov/write-to-patty/
+      address: 154 Russell Senate Office Building Washington DC 20510
+      office: 154 Russell Senate Office Building
+      phone: 202-224-2621
+- id:
+    bioguide: P000603
+    thomas: "02082"
+    lis: S348
+    govtrack: 412492
+    opensecrets: N00030836
+    votesmart: 117285
+    fec:
+      - S0KY00156
+    cspan: 9265241
+    wikipedia: Rand Paul
+    ballotpedia: Rand Paul
+    maplight: 1497
+    icpsr: 41104
+    wikidata: Q463557
+    google_entity_id: kg:/m/05pdb7q
+    pictorial: 13350
+  name:
+    first: Rand
+    last: Paul
+    official_full: Rand Paul
+  bio:
+    birthday: 1963-01-07
+    gender: M
+  terms:
+    - type: sen
+      start: 2011-01-05
+      end: 2017-01-03
+      state: KY
+      class: 3
+      party: Republican
+      url: https://www.paul.senate.gov
+      address: 167 Russell Senate Office Building Washington DC 20510
+      phone: 202-224-4343
+      contact_form: http://www.paul.senate.gov/?p=contact
+      fax: 202-228-1373
+      office: 167 Russell Senate Office Building
+      state_rank: junior
+      rss_url: http://paul.senate.gov/rss/?p=news
+    - type: sen
+      start: 2017-01-03
+      end: 2023-01-03
+      state: KY
+      class: 3
+      state_rank: junior
+      party: Republican
+      url: https://www.paul.senate.gov
+      rss_url: http://paul.senate.gov/rss/?p=news
+      address: 167 Russell Senate Office Building Washington DC 20510
+      office: 167 Russell Senate Office Building
+      phone: 202-224-4343
+      contact_form: https://www.paul.senate.gov/connect/email-rand
+      fax: 202-228-1373
+    - type: sen
+      start: 2023-01-03
+      end: 2029-01-03
+      state: KY
+      class: 3
+      state_rank: junior
+      party: Republican
+      url: https://www.paul.senate.gov
+      rss_url: http://paul.senate.gov/rss/?p=news
+      contact_form: https://www.paul.senate.gov/connect/email-rand
+      address: 295 Russell Senate Office Building Washington DC 20510
+      office: 295 Russell Senate Office Building
+      phone: 202-224-4343
+  family:
+    - name: Ronald Ernest Paul
+      relation: son
+- id:
+    bioguide: C001098
+    thomas: "02175"
+    lis: S355
+    govtrack: 412573
+    cspan: 1019953
+    wikipedia: Ted Cruz
+    votesmart: 135705
+    opensecrets: N00033085
+    fec:
+      - S2TX00312
+    ballotpedia: Ted Cruz
+    maplight: 1797
+    icpsr: 41304
+    wikidata: Q2036942
+    google_entity_id: kg:/m/07j6ty
+    pictorial: 13402
+  name:
+    first: Ted
+    last: Cruz
+    official_full: Ted Cruz
+  bio:
+    gender: M
+    birthday: 1970-12-22
+  terms:
+    - type: sen
+      start: 2013-01-03
+      end: 2019-01-03
+      state: TX
+      party: Republican
+      class: 1
+      url: https://www.cruz.senate.gov
+      address: 404 Russell Senate Office Building Washington DC 20510
+      office: 404 Russell Senate Office Building
+      phone: 202-224-5922
+      state_rank: junior
+      contact_form: https://www.cruz.senate.gov/?p=form&id=16
+      fax: 202-228-3398
+    - type: sen
+      start: 2019-01-03
+      end: 2025-01-03
+      state: TX
+      class: 1
+      party: Republican
+      state_rank: junior
+      url: https://www.cruz.senate.gov
+      contact_form: https://www.cruz.senate.gov/?p=form&id=16
+      address: 167 Russell Senate Office Building Washington DC 20510
+      office: 167 Russell Senate Office Building
+      phone: 202-224-5922
+    - type: sen
+      start: 2025-01-03
+      end: 2031-01-03
+      state: TX
+      class: 1
+      state_rank: junior
+      party: Republican
+      url: https://www.cruz.senate.gov
+      contact_form: https://www.cruz.senate.gov/?p=form&id=16
+      address: 167 Russell Senate Office Building Washington DC 20510
+      office: 167 Russell Senate Office Building
+      phone: 202-224-5922
+- id:
+    bioguide: K000384
+    thomas: "02176"
+    lis: S362
+    govtrack: 412582
+    cspan: 49219
+    wikipedia: Tim Kaine
+    votesmart: 50772
+    opensecrets: N00033177
+    fec:
+      - S2VA00142
+    ballotpedia: Tim Kaine
+    maplight: 1806
+    icpsr: 41305
+    wikidata: Q359888
+    google_entity_id: kg:/m/053f8h
+    pictorial: 13434
+  name:
+    first: Timothy
+    nickname: Tim
+    last: Kaine
+    official_full: Tim Kaine
+  bio:
+    gender: M
+    birthday: 1958-02-26
+  terms:
+    - type: sen
+      start: 2013-01-03
+      end: 2019-01-03
+      state: VA
+      party: Democrat
+      class: 1
+      url: https://www.kaine.senate.gov
+      address: 231 Russell Senate Office Building Washington DC 20510
+      office: 231 Russell Senate Office Building
+      phone: 202-224-4024
+      state_rank: junior
+      contact_form: https://www.kaine.senate.gov/contact
+      rss_url: http://www.kaine.senate.gov/rss/feeds/?type=all
+      fax: 202-228-6363
+    - type: sen
+      start: 2019-01-03
+      end: 2025-01-03
+      state: VA
+      class: 1
+      party: Democrat
+      state_rank: junior
+      url: https://www.kaine.senate.gov
+      rss_url: http://www.kaine.senate.gov/rss/feeds/?type=all
+      contact_form: https://www.kaine.senate.gov/contact
+      address: 231 Russell Senate Office Building Washington DC 20510
+      office: 231 Russell Senate Office Building
+      phone: 202-224-4024
+    - type: sen
+      start: 2025-01-03
+      end: 2031-01-03
+      state: VA
+      class: 1
+      state_rank: junior
+      party: Democrat
+      url: https://www.kaine.senate.gov
+      rss_url: http://www.kaine.senate.gov/rss/feeds/?type=all
+      contact_form: https://www.kaine.senate.gov/contact
+      address: 231 Russell Senate Office Building Washington DC 20510
+      office: 231 Russell Senate Office Building
+      phone: 202-224-4024
+- id:
+    bioguide: G000574
+    lis: S432
+    fec:
+      - H4AZ07043
+      - S4AZ00139
+    govtrack: 412612
+    opensecrets: N00036097
+    thomas: "02226"
+    maplight: 2068
+    wikidata: Q16218474
+    wikipedia: Ruben Gallego
+    google_entity_id: kg:/m/0wy0mz5
+    cspan: 77233
+    icpsr: 21502
+    votesmart: 123732
+    ballotpedia: Ruben Gallego
+    pictorial: 12908
+  name:
+    first: Ruben
+    last: Gallego
+    official_full: Ruben Gallego
+  bio:
+    gender: M
+    birthday: 1979-11-20
+  terms:
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: AZ
+      district: 7
+      party: Democrat
+      address: 1218 Longworth HOB; Washington DC 20515-0307
+      office: 1218 Longworth House Office Building
+      phone: 202-225-4065
+      url: https://rubengallego.house.gov
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: AZ
+      district: 7
+      party: Democrat
+      phone: 202-225-4065
+      url: https://rubengallego.house.gov
+      address: 1218 Longworth House Office Building; Washington DC 20515-0307
+      office: 1218 Longworth House Office Building
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: AZ
+      district: 7
+      party: Democrat
+      phone: 202-225-4065
+      address: 1131 Longworth House Office Building Washington DC 20515-0307
+      office: 1131 Longworth House Office Building
+      url: https://rubengallego.house.gov
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: AZ
+      district: 7
+      party: Democrat
+      url: https://rubengallego.house.gov
+      address: 1131 Longworth House Office Building Washington DC 20515-0307
+      office: 1131 Longworth House Office Building
+      phone: 202-225-4065
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: AZ
+      district: 3
+      party: Democrat
+      url: https://rubengallego.house.gov
+      address: 1114 Longworth House Office Building Washington DC 20515-0303
+      office: 1114 Longworth House Office Building
+      phone: 202-225-4065
+    - type: sen
+      start: 2025-01-03
+      end: 2031-01-03
+      state: AZ
+      class: 1
+      state_rank: junior
+      party: Democrat
+      url: https://www.gallego.senate.gov
+      address: 302 Hart Senate Office Building Washington DC 20510
+      office: 302 Hart Senate Office Building
+      phone: 202-224-4521
+- id:
+    bioguide: K000377
+    lis: S406
+    fec:
+      - S0AZ00350
+    govtrack: 456794
+    opensecrets: N00044223
+    wikipedia: Mark Kelly
+    wikidata: Q357510
+    ballotpedia: Mark Kelly
+    votesmart: 190594
+    pictorial: 13430
+  name:
+    first: Mark
+    last: Kelly
+    official_full: Mark Kelly
+  bio:
+    gender: M
+    birthday: 1964-02-21
+  terms:
+    - type: sen
+      start: 2020-12-02
+      end: 2023-01-03
+      how: special-election
+      state: AZ
+      class: 3
+      party: Democrat
+      state_rank: junior
+      url: https://www.kelly.senate.gov
+      contact_form: https://www.kelly.senate.gov
+      address: 516 Hart Senate Office Building Washington DC 20510
+      office: 516 Hart Senate Office Building
+      phone: 202-224-2235
+    - type: sen
+      start: 2023-01-03
+      end: 2029-01-03
+      state: AZ
+      class: 3
+      state_rank: senior
+      party: Democrat
+      url: https://www.kelly.senate.gov
+      contact_form: https://www.kelly.senate.gov/contact/contact-form/
+      address: 516 Hart Senate Office Building Washington DC 20510
+      office: 516 Hart Senate Office Building
+      phone: 202-224-2235
+- id:
+    bioguide: C001051
+    thomas: "01752"
+    govtrack: 400068
+    opensecrets: N00025095
+    votesmart: 49296
+    fec:
+      - H2TX31044
+    cspan: 1004257
+    wikipedia: John Carter (Texas politician)
+    house_history: 11770
+    ballotpedia: John Carter
+    maplight: 185
+    icpsr: 20356
+    wikidata: Q369814
+    google_entity_id: kg:/m/04m7rg
+    pictorial: 13288
+  name:
+    first: John
+    middle: R.
+    last: Carter
+    official_full: John R. Carter
+  bio:
+    birthday: 1941-11-06
+    gender: M
+  terms:
+    - type: rep
+      start: 2003-01-07
+      end: 2005-01-03
+      state: TX
+      district: 31
+      party: Republican
+      url: http://www.house.gov/carter
+    - type: rep
+      start: 2005-01-04
+      end: 2007-01-03
+      state: TX
+      district: 31
+      party: Republican
+      url: http://www.house.gov/carter
+    - type: rep
+      start: 2007-01-04
+      end: 2009-01-03
+      state: TX
+      district: 31
+      party: Republican
+      url: http://carter.house.gov
+    - type: rep
+      start: 2009-01-06
+      end: 2011-01-03
+      state: TX
+      district: 31
+      party: Republican
+      url: http://carter.house.gov
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: TX
+      district: 31
+      party: Republican
+      url: http://carter.house.gov
+      address: 409 Cannon HOB; Washington DC 20515-4331
+      phone: 202-225-3864
+      fax: 202-225-5886
+      contact_form: https://forms.house.gov/wyr/welcome.shtml
+      office: 409 Cannon House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: TX
+      party: Republican
+      district: 31
+      url: http://carter.house.gov
+      address: 409 Cannon HOB; Washington DC 20515-4331
+      phone: 202-225-3864
+      fax: 202-225-5886
+      contact_form: https://carter.house.gov/email-john2
+      office: 409 Cannon House Office Building
+      rss_url: http://carter.house.gov/common/rss/?rss=40
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: TX
+      party: Republican
+      district: 31
+      url: http://carter.house.gov
+      address: 2110 Rayburn HOB; Washington DC 20515-4331
+      phone: 202-225-3864
+      fax: 202-225-5886
+      contact_form: https://carter.house.gov/email-john2
+      office: 2110 Rayburn House Office Building
+      rss_url: http://carter.house.gov/common/rss/?rss=40
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: TX
+      district: 31
+      party: Republican
+      phone: 202-225-3864
+      url: https://carter.house.gov
+      rss_url: http://carter.house.gov/common/rss/?rss=40
+      address: 2110 Rayburn House Office Building; Washington DC 20515-4331
+      office: 2110 Rayburn House Office Building
+      fax: 202-225-5886
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: TX
+      district: 31
+      party: Republican
+      phone: 202-225-3864
+      address: 2110 Rayburn House Office Building Washington DC 20515-4331
+      office: 2110 Rayburn House Office Building
+      url: https://carter.house.gov
+      rss_url: http://carter.house.gov/common/rss/?rss=40
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: TX
+      district: 31
+      party: Republican
+      url: https://carter.house.gov
+      rss_url: http://carter.house.gov/common/rss/?rss=40
+      address: 2208 Rayburn House Office Building Washington DC 20515-4331
+      office: 2208 Rayburn House Office Building
+      phone: 202-225-3864
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: TX
+      district: 31
+      party: Republican
+      url: https://carter.house.gov
+      rss_url: http://carter.house.gov/common/rss/?rss=40
+      address: 2208 Rayburn House Office Building Washington DC 20515-4331
+      office: 2208 Rayburn House Office Building
+      phone: 202-225-3864
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: TX
+      district: 31
+      party: Republican
+      url: https://carter.house.gov
+      rss_url: http://carter.house.gov/common/rss/?rss=40
+      address: 2208 Rayburn House Office Building Washington DC 20515-4331
+      office: 2208 Rayburn House Office Building
+      phone: 202-225-3864
+- id:
+    bioguide: C001063
+    thomas: "01807"
+    govtrack: 400657
+    opensecrets: N00024978
+    votesmart: 5486
+    fec:
+      - H2TX23082
+    cspan: 1013062
+    wikipedia: Henry Cuellar
+    house_history: 11790
+    maplight: 662
+    icpsr: 20533
+    wikidata: Q539562
+    google_entity_id: kg:/m/04clj6
+    ballotpedia: Henry Cuellar
+    pictorial: 13285
+  name:
+    first: Henry
+    last: Cuellar
+    official_full: Henry Cuellar
+  bio:
+    birthday: 1955-09-19
+    gender: M
+  terms:
+    - type: rep
+      start: 2005-01-04
+      end: 2007-01-03
+      state: TX
+      district: 28
+      party: Democrat
+    - type: rep
+      start: 2007-01-04
+      end: 2009-01-03
+      state: TX
+      district: 28
+      party: Democrat
+      url: http://www.house.gov/cuellar
+    - type: rep
+      start: 2009-01-06
+      end: 2011-01-03
+      state: TX
+      district: 28
+      party: Democrat
+      url: http://www.house.gov/cuellar
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: TX
+      district: 28
+      party: Democrat
+      url: http://www.house.gov/cuellar
+      address: 2463 Rayburn HOB; Washington DC 20515-4328
+      phone: 202-225-1640
+      fax: 202-225-1641
+      contact_form: http://cuellar.house.gov/Contact/SendMeAnEmail.htm
+      office: 2463 Rayburn House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: TX
+      party: Democrat
+      district: 28
+      url: http://cuellar.house.gov
+      address: 2431 Rayburn HOB; Washington DC 20515-4328
+      phone: 202-225-1640
+      fax: 202-225-1641
+      contact_form: https://cuellar.house.gov/forms/writeyourrep/default.aspx
+      office: 2431 Rayburn House Office Building
+      rss_url: http://cuellar.house.gov/news/rss.aspx
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: TX
+      party: Democrat
+      district: 28
+      url: http://cuellar.house.gov
+      address: 2209 Rayburn HOB; Washington DC 20515-4328
+      phone: 202-225-1640
+      fax: 202-225-1641
+      contact_form: https://cuellar.house.gov/forms/writeyourrep/default.aspx
+      office: 2209 Rayburn House Office Building
+      rss_url: http://cuellar.house.gov/news/rss.aspx
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: TX
+      district: 28
+      party: Democrat
+      phone: 202-225-1640
+      url: https://cuellar.house.gov
+      rss_url: http://cuellar.house.gov/news/rss.aspx
+      address: 2209 Rayburn House Office Building; Washington DC 20515-4328
+      office: 2209 Rayburn House Office Building
+      fax: 202-225-1641
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: TX
+      district: 28
+      party: Democrat
+      phone: 202-225-1640
+      address: 2372 Rayburn House Office Building Washington DC 20515-4328
+      office: 2372 Rayburn House Office Building
+      url: https://cuellar.house.gov
+      rss_url: http://cuellar.house.gov/news/rss.aspx
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: TX
+      district: 28
+      party: Democrat
+      url: https://cuellar.house.gov
+      rss_url: http://cuellar.house.gov/news/rss.aspx
+      address: 2372 Rayburn House Office Building Washington DC 20515-4328
+      office: 2372 Rayburn House Office Building
+      phone: 202-225-1640
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: TX
+      district: 28
+      party: Democrat
+      url: https://cuellar.house.gov
+      rss_url: http://cuellar.house.gov/news/rss.aspx
+      address: 2372 Rayburn House Office Building Washington DC 20515-4328
+      office: 2372 Rayburn House Office Building
+      phone: 202-225-1640
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: TX
+      district: 28
+      party: Democrat
+      url: https://cuellar.house.gov
+      rss_url: http://cuellar.house.gov/news/rss.aspx
+      address: 2308 Rayburn House Office Building Washington DC 20515-4328
+      office: 2308 Rayburn House Office Building
+      phone: 202-225-1640
+- id:
+    bioguide: D000399
+    thomas: "00303"
+    govtrack: 400111
+    opensecrets: N00006023
+    votesmart: 21689
+    fec:
+      - H4TX10028
+    cspan: 36810
+    wikipedia: Lloyd Doggett
+    house_history: 12328
+    maplight: 224
+    icpsr: 29571
+    wikidata: Q363817
+    google_entity_id: kg:/m/03flzn
+    ballotpedia: Lloyd Doggett
+    pictorial: 13294
+  name:
+    first: Lloyd
+    middle: A.
+    last: Doggett
+    official_full: Lloyd Doggett
+  bio:
+    birthday: 1946-10-06
+    gender: M
+  terms:
+    - type: rep
+      start: 1995-01-04
+      end: 1997-01-03
+      state: TX
+      district: 10
+      party: Democrat
+    - type: rep
+      start: 1997-01-07
+      end: 1999-01-03
+      state: TX
+      district: 10
+      party: Democrat
+    - type: rep
+      start: 1999-01-06
+      end: 2001-01-03
+      state: TX
+      district: 10
+      party: Democrat
+    - type: rep
+      start: 2001-01-03
+      end: 2003-01-03
+      state: TX
+      district: 10
+      party: Democrat
+    - type: rep
+      start: 2003-01-07
+      end: 2005-01-03
+      state: TX
+      district: 10
+      party: Democrat
+      url: http://www.house.gov/doggett
+    - type: rep
+      start: 2005-01-04
+      end: 2007-01-03
+      state: TX
+      district: 25
+      party: Democrat
+      url: http://www.house.gov/doggett
+    - type: rep
+      start: 2007-01-04
+      end: 2009-01-03
+      state: TX
+      district: 25
+      party: Democrat
+      url: http://www.house.gov/doggett
+    - type: rep
+      start: 2009-01-06
+      end: 2011-01-03
+      state: TX
+      district: 25
+      party: Democrat
+      url: http://www.house.gov/doggett
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: TX
+      district: 25
+      party: Democrat
+      url: http://www.house.gov/doggett
+      address: 201 Cannon HOB; Washington DC 20515-4325
+      phone: 202-225-4865
+      fax: 202-225-3073
+      contact_form: http://www.house.gov/doggett/doggett_ima/doggett_get_address.shtml
+      office: 201 Cannon House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: TX
+      party: Democrat
+      district: 35
+      url: http://doggett.house.gov
+      address: 201 Cannon HOB; Washington DC 20515-4335
+      phone: 202-225-4865
+      fax: 202-225-3073
+      contact_form: https://forms.house.gov/doggett/webforms/issue_subscribe.htm
+      office: 201 Cannon House Office Building
+      rss_url: http://doggett.house.gov/index.php/component/ninjarsssyndicator/?feed_id=1&amp;format=raw
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: TX
+      party: Democrat
+      district: 35
+      url: http://doggett.house.gov
+      address: 2307 Rayburn HOB; Washington DC 20515-4335
+      phone: 202-225-4865
+      fax: 202-225-3073
+      contact_form: https://forms.house.gov/doggett/webforms/issue_subscribe.htm
+      office: 2307 Rayburn House Office Building
+      rss_url: http://doggett.house.gov/index.php/component/ninjarsssyndicator/?feed_id=1&amp;format=raw
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: TX
+      district: 35
+      party: Democrat
+      phone: 202-225-4865
+      url: https://doggett.house.gov
+      rss_url: http://doggett.house.gov/index.php/component/ninjarsssyndicator/?feed_id=1&amp;format=raw
+      address: 2307 Rayburn House Office Building; Washington DC 20515-4335
+      office: 2307 Rayburn House Office Building
+      fax: 202-225-3073
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: TX
+      district: 35
+      party: Democrat
+      phone: 202-225-4865
+      address: 2307 Rayburn House Office Building Washington DC 20515-4335
+      office: 2307 Rayburn House Office Building
+      url: https://doggett.house.gov
+      rss_url: http://doggett.house.gov/index.php/component/ninjarsssyndicator/?feed_id=1&amp;format=raw
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: TX
+      district: 35
+      party: Democrat
+      url: https://doggett.house.gov
+      rss_url: http://doggett.house.gov/index.php/component/ninjarsssyndicator/?feed_id=1&amp;format=raw
+      address: 2307 Rayburn House Office Building Washington DC 20515-4335
+      office: 2307 Rayburn House Office Building
+      phone: 202-225-4865
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: TX
+      district: 37
+      party: Democrat
+      url: https://doggett.house.gov
+      rss_url: http://doggett.house.gov/index.php/component/ninjarsssyndicator/?feed_id=1&amp;format=raw
+      address: 2307 Rayburn House Office Building Washington DC 20515-0001
+      office: 2307 Rayburn House Office Building
+      phone: 202-225-4865
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: TX
+      district: 37
+      party: Democrat
+      url: https://doggett.house.gov
+      rss_url: http://doggett.house.gov/index.php/component/ninjarsssyndicator/?feed_id=1&amp;format=raw
+      address: 2307 Rayburn House Office Building Washington DC 20515-0001
+      office: 2307 Rayburn House Office Building
+      phone: 202-225-4865
+- id:
+    bioguide: G000565
+    thomas: "01992"
+    govtrack: 412397
+    opensecrets: N00030771
+    votesmart: 123491
+    fec:
+      - H0AZ01259
+    cspan: 62470
+    wikipedia: Paul Gosar
+    house_history: 14283
+    ballotpedia: Paul Gosar
+    maplight: 1411
+    icpsr: 21103
+    wikidata: Q2059832
+    google_entity_id: kg:/m/0czdqz0
+    pictorial: 12914
+  name:
+    first: Paul
+    last: Gosar
+    official_full: Paul A. Gosar
+    middle: A.
+  bio:
+    birthday: 1958-11-22
+    gender: M
+  terms:
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: AZ
+      district: 1
+      party: Republican
+      url: http://gosar.house.gov/
+      address: 504 Cannon HOB; Washington DC 20515-0301
+      phone: 202-225-2315
+      fax: 200-226-9739
+      office: 504 Cannon House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: AZ
+      party: Republican
+      district: 4
+      url: http://gosar.house.gov
+      address: 504 Cannon HOB; Washington DC 20515-0304
+      phone: 202-225-2315
+      fax: 202-226-9739
+      office: 504 Cannon House Office Building
+      rss_url: http://gosar.house.gov/rss.xml
+      contact_form: https://gosar.house.gov/contact-me/email-me
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: AZ
+      party: Republican
+      district: 4
+      url: http://gosar.house.gov
+      address: 504 Cannon HOB; Washington DC 20515-0304
+      phone: 202-225-2315
+      fax: 202-226-9739
+      office: 504 Cannon House Office Building
+      rss_url: http://gosar.house.gov/rss.xml
+      contact_form: https://gosar.house.gov/contact-me/email-me
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: AZ
+      district: 4
+      party: Republican
+      phone: 202-225-2315
+      url: https://gosar.house.gov
+      rss_url: http://gosar.house.gov/rss.xml
+      address: 2057 Rayburn House Office Building; Washington DC 20515-0304
+      office: 2057 Rayburn House Office Building
+      fax: 202-226-9739
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: AZ
+      district: 4
+      party: Republican
+      phone: 202-225-2315
+      address: 2057 Rayburn House Office Building Washington DC 20515-0304
+      office: 2057 Rayburn House Office Building
+      url: https://gosar.house.gov
+      rss_url: http://gosar.house.gov/rss.xml
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: AZ
+      district: 4
+      party: Republican
+      url: https://gosar.house.gov
+      rss_url: http://gosar.house.gov/rss.xml
+      address: 2057 Rayburn House Office Building Washington DC 20515-0304
+      office: 2057 Rayburn House Office Building
+      phone: 202-225-2315
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: AZ
+      district: 9
+      party: Republican
+      url: https://gosar.house.gov
+      rss_url: http://gosar.house.gov/rss.xml
+      address: 2057 Rayburn House Office Building Washington DC 20515-0309
+      office: 2057 Rayburn House Office Building
+      phone: 202-225-2315
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: AZ
+      district: 9
+      party: Republican
+      url: https://gosar.house.gov
+      rss_url: http://gosar.house.gov/rss.xml
+      address: 2057 Rayburn House Office Building Washington DC 20515-0309
+      office: 2057 Rayburn House Office Building
+      phone: 202-225-2315
+- id:
+    bioguide: G000553
+    thomas: "01803"
+    govtrack: 400653
+    opensecrets: N00026686
+    votesmart: 49680
+    fec:
+      - H4TX09095
+    cspan: 1012969
+    wikipedia: Al Green (politician)
+    house_history: 14265
+    ballotpedia: Al Green
+    maplight: 658
+    icpsr: 20529
+    wikidata: Q749039
+    google_entity_id: kg:/m/02kn0_
+    pictorial: 13266
+  name:
+    first: Al
+    last: Green
+    official_full: Al Green
+  bio:
+    birthday: 1947-09-01
+    gender: M
+  terms:
+    - type: rep
+      start: 2005-01-04
+      end: 2007-01-03
+      state: TX
+      district: 9
+      party: Democrat
+    - type: rep
+      start: 2007-01-04
+      end: 2009-01-03
+      state: TX
+      district: 9
+      party: Democrat
+      url: http://www.house.gov/algreen
+    - type: rep
+      start: 2009-01-06
+      end: 2011-01-03
+      state: TX
+      district: 9
+      party: Democrat
+      url: http://www.house.gov/algreen
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: TX
+      district: 9
+      party: Democrat
+      url: http://www.house.gov/algreen
+      address: 2201 Rayburn HOB; Washington DC 20515-4309
+      phone: 202-225-7508
+      fax: 202-225-2947
+      contact_form: http://www.house.gov/writerep
+      office: 2201 Rayburn House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: TX
+      party: Democrat
+      district: 9
+      url: http://algreen.house.gov
+      address: 2201 Rayburn HOB; Washington DC 20515-4309
+      phone: 202-225-7508
+      fax: 202-225-2947
+      contact_form: https://algreen.house.gov/contact-me/email-me
+      office: 2201 Rayburn House Office Building
+      rss_url: http://algreen.house.gov/rss.xml
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: TX
+      party: Democrat
+      district: 9
+      url: http://algreen.house.gov
+      address: 2347 Rayburn HOB; Washington DC 20515-4309
+      phone: 202-225-7508
+      fax: 202-225-2947
+      contact_form: https://algreen.house.gov/contact-me/email-me
+      office: 2347 Rayburn House Office Building
+      rss_url: http://algreen.house.gov/rss.xml
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: TX
+      district: 9
+      party: Democrat
+      phone: 202-225-7508
+      url: https://algreen.house.gov
+      rss_url: http://algreen.house.gov/rss.xml
+      address: 2347 Rayburn House Office Building; Washington DC 20515-4309
+      office: 2347 Rayburn House Office Building
+      fax: 202-225-2947
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: TX
+      district: 9
+      party: Democrat
+      phone: 202-225-7508
+      address: 2347 Rayburn House Office Building Washington DC 20515-4309
+      office: 2347 Rayburn House Office Building
+      url: https://algreen.house.gov
+      rss_url: http://algreen.house.gov/rss.xml
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: TX
+      district: 9
+      party: Democrat
+      url: https://algreen.house.gov
+      rss_url: http://algreen.house.gov/rss.xml
+      address: 2347 Rayburn House Office Building Washington DC 20515-4309
+      office: 2347 Rayburn House Office Building
+      phone: 202-225-7508
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: TX
+      district: 9
+      party: Democrat
+      url: https://algreen.house.gov
+      rss_url: http://algreen.house.gov/rss.xml
+      address: 2347 Rayburn House Office Building Washington DC 20515-4309
+      office: 2347 Rayburn House Office Building
+      phone: 202-225-7508
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: TX
+      district: 9
+      party: Democrat
+      url: https://algreen.house.gov
+      rss_url: http://algreen.house.gov/rss.xml
+      address: 2347 Rayburn House Office Building Washington DC 20515-4309
+      office: 2347 Rayburn House Office Building
+      phone: 202-225-7508
+- id:
+    bioguide: G000568
+    thomas: "02070"
+    govtrack: 412485
+    opensecrets: N00032029
+    votesmart: 5148
+    fec:
+      - H0VA09055
+    cspan: 62766
+    wikipedia: Morgan Griffith
+    house_history: 14288
+    ballotpedia: Morgan Griffith
+    maplight: 1490
+    icpsr: 21191
+    wikidata: Q1684857
+    google_entity_id: kg:/m/025vdrq
+    pictorial: 13307
+  name:
+    first: H.
+    middle: Morgan
+    last: Griffith
+    official_full: H. Morgan Griffith
+  bio:
+    birthday: 1958-03-15
+    gender: M
+  terms:
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: VA
+      district: 9
+      party: Republican
+      url: http://morgangriffith.house.gov/
+      address: 1108 Longworth HOB; Washington DC 20515-4609
+      phone: 202-225-3861
+      fax: 202-225-0076
+      office: 1108 Longworth House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: VA
+      party: Republican
+      district: 9
+      url: http://morgangriffith.house.gov
+      address: 1108 Longworth HOB; Washington DC 20515-4609
+      phone: 202-225-3861
+      fax: 202-225-0076
+      office: 1108 Longworth House Office Building
+      rss_url: http://morgangriffith.house.gov/news/rss.aspx
+      contact_form: https://morgangriffith.house.gov/contact/contactform.htm
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: VA
+      party: Republican
+      district: 9
+      url: http://morgangriffith.house.gov
+      address: 1108 Longworth HOB; Washington DC 20515-4609
+      phone: 202-225-3861
+      fax: 202-225-0076
+      office: 1108 Longworth House Office Building
+      rss_url: http://morgangriffith.house.gov/news/rss.aspx
+      contact_form: https://morgangriffith.house.gov/contact/contactform.htm
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: VA
+      district: 9
+      party: Republican
+      phone: 202-225-3861
+      url: https://morgangriffith.house.gov
+      rss_url: http://morgangriffith.house.gov/news/rss.aspx
+      address: 2202 Rayburn House Office Building; Washington DC 20515-4609
+      office: 2202 Rayburn House Office Building
+      fax: 202-225-0076
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: VA
+      district: 9
+      party: Republican
+      phone: 202-225-3861
+      address: 2202 Rayburn House Office Building Washington DC 20515-4609
+      office: 2202 Rayburn House Office Building
+      url: https://morgangriffith.house.gov
+      rss_url: http://morgangriffith.house.gov/news/rss.aspx
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: VA
+      district: 9
+      party: Republican
+      url: https://morgangriffith.house.gov
+      rss_url: http://morgangriffith.house.gov/news/rss.aspx
+      address: 2202 Rayburn House Office Building Washington DC 20515-4609
+      office: 2202 Rayburn House Office Building
+      phone: 202-225-3861
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: VA
+      district: 9
+      party: Republican
+      url: https://morgangriffith.house.gov
+      rss_url: http://morgangriffith.house.gov/news/rss.aspx
+      address: 2202 Rayburn House Office Building Washington DC 20515-4609
+      office: 2202 Rayburn House Office Building
+      phone: 202-225-3861
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: VA
+      district: 9
+      party: Republican
+      url: https://morgangriffith.house.gov
+      rss_url: http://morgangriffith.house.gov/news/rss.aspx
+      address: 2110 Rayburn House Office Building Washington DC 20515-4609
+      office: 2110 Rayburn House Office Building
+      phone: 202-225-3861
+- id:
+    bioguide: G000558
+    thomas: "01922"
+    govtrack: 412278
+    opensecrets: N00029675
+    votesmart: 18829
+    fec:
+      - H8KY02031
+    cspan: 1031343
+    wikipedia: Brett Guthrie
+    house_history: 14275
+    ballotpedia: Brett Guthrie
+    maplight: 760
+    icpsr: 20916
+    wikidata: Q910794
+    google_entity_id: kg:/m/0411qqt
+    pictorial: 13064
+  name:
+    first: Brett
+    last: Guthrie
+    official_full: Brett Guthrie
+  bio:
+    gender: M
+    birthday: 1964-02-18
+  terms:
+    - type: rep
+      start: 2009-01-06
+      end: 2011-01-03
+      state: KY
+      district: 2
+      party: Republican
+      url: http://guthrie.house.gov
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: KY
+      district: 2
+      party: Republican
+      url: http://guthrie.house.gov
+      address: 308 Cannon HOB; Washington DC 20515-1702
+      phone: 202-225-3501
+      fax: 202-226-2019
+      contact_form: https://forms.house.gov/guthrie/contact-form.shtml
+      office: 308 Cannon House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: KY
+      party: Republican
+      district: 2
+      url: http://guthrie.house.gov
+      address: 308 Cannon HOB; Washington DC 20515-1702
+      phone: 202-225-3501
+      fax: 202-226-2019
+      contact_form: http://brettguthrieforms.house.gov/contact/
+      office: 308 Cannon House Office Building
+      rss_url: http://guthrie.house.gov/common/rss/?rss=24
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: KY
+      party: Republican
+      district: 2
+      url: http://guthrie.house.gov
+      address: 2434 Rayburn HOB; Washington DC 20515-1702
+      phone: 202-225-3501
+      fax: 202-226-2019
+      contact_form: http://brettguthrieforms.house.gov/contact/
+      office: 2434 Rayburn House Office Building
+      rss_url: http://guthrie.house.gov/common/rss/?rss=24
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: KY
+      district: 2
+      party: Republican
+      phone: 202-225-3501
+      url: https://guthrie.house.gov
+      rss_url: http://guthrie.house.gov/common/rss/?rss=24
+      address: 2434 Rayburn House Office Building; Washington DC 20515-1702
+      office: 2434 Rayburn House Office Building
+      fax: 202-226-2019
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: KY
+      district: 2
+      party: Republican
+      phone: 202-225-3501
+      address: 2434 Rayburn House Office Building Washington DC 20515-1702
+      office: 2434 Rayburn House Office Building
+      url: https://guthrie.house.gov
+      rss_url: http://guthrie.house.gov/common/rss/?rss=24
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: KY
+      district: 2
+      party: Republican
+      url: https://guthrie.house.gov
+      rss_url: http://guthrie.house.gov/common/rss/?rss=24
+      address: 2434 Rayburn House Office Building Washington DC 20515-1702
+      office: 2434 Rayburn House Office Building
+      phone: 202-225-3501
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: KY
+      district: 2
+      party: Republican
+      url: https://guthrie.house.gov
+      rss_url: http://guthrie.house.gov/common/rss/?rss=24
+      address: 2434 Rayburn House Office Building Washington DC 20515-1702
+      office: 2434 Rayburn House Office Building
+      phone: 202-225-3501
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: KY
+      district: 2
+      party: Republican
+      url: https://guthrie.house.gov
+      rss_url: http://guthrie.house.gov/common/rss/?rss=24
+      address: 2161 Rayburn House Office Building Washington DC 20515-1702
+      office: 2161 Rayburn House Office Building
+      phone: 202-225-3501
+- id:
+    bioguide: L000560
+    thomas: "01675"
+    govtrack: 400232
+    opensecrets: N00009759
+    votesmart: 56231
+    fec:
+      - H0WA02080
+    cspan: 86610
+    wikipedia: Rick Larsen
+    house_history: 17298
+    maplight: 333
+    icpsr: 20145
+    wikidata: Q503529
+    google_entity_id: kg:/m/025953
+    ballotpedia: Rick Larsen
+    pictorial: 13313
+  name:
+    first: Rick
+    last: Larsen
+    official_full: Rick Larsen
+  bio:
+    birthday: 1965-06-15
+    gender: M
+  terms:
+    - type: rep
+      start: 2001-01-03
+      end: 2003-01-03
+      state: WA
+      district: 2
+      party: Democrat
+    - type: rep
+      start: 2003-01-07
+      end: 2005-01-03
+      state: WA
+      district: 2
+      party: Democrat
+      url: http://www.house.gov/larsen
+    - type: rep
+      start: 2005-01-04
+      end: 2007-01-03
+      state: WA
+      district: 2
+      party: Democrat
+      url: http://www.house.gov/larsen
+    - type: rep
+      start: 2007-01-04
+      end: 2009-01-03
+      state: WA
+      district: 2
+      party: Democrat
+      url: http://www.house.gov/larsen
+    - type: rep
+      start: 2009-01-06
+      end: 2011-01-03
+      state: WA
+      district: 2
+      party: Democrat
+      url: http://www.house.gov/larsen
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: WA
+      district: 2
+      party: Democrat
+      url: http://www.house.gov/larsen
+      address: 108 Cannon HOB; Washington DC 20515-4702
+      phone: 202-225-2605
+      fax: 202-225-4420
+      contact_form: http://www.house.gov/larsen/contact/
+      office: 108 Cannon House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: WA
+      party: Democrat
+      district: 2
+      url: http://larsen.house.gov
+      address: 2113 Rayburn HOB; Washington DC 20515-4702
+      phone: 202-225-2605
+      fax: 202-225-4420
+      contact_form: http://larsen.house.gov/contact-rick/email-rick
+      office: 2113 Rayburn House Office Building
+      rss_url: http://larsen.house.gov/rss.xml
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: WA
+      party: Democrat
+      district: 2
+      url: http://larsen.house.gov
+      address: 2113 Rayburn HOB; Washington DC 20515-4702
+      phone: 202-225-2605
+      fax: 202-225-4420
+      contact_form: http://larsen.house.gov/contact-rick/email-rick
+      office: 2113 Rayburn House Office Building
+      rss_url: http://larsen.house.gov/rss.xml
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: WA
+      district: 2
+      party: Democrat
+      phone: 202-225-2605
+      url: https://larsen.house.gov
+      rss_url: http://larsen.house.gov/rss.xml
+      address: 2113 Rayburn House Office Building; Washington DC 20515-4702
+      office: 2113 Rayburn House Office Building
+      fax: 202-225-4420
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: WA
+      district: 2
+      party: Democrat
+      phone: 202-225-2605
+      address: 2113 Rayburn House Office Building Washington DC 20515-4702
+      office: 2113 Rayburn House Office Building
+      url: https://larsen.house.gov
+      rss_url: http://larsen.house.gov/rss.xml
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: WA
+      district: 2
+      party: Democrat
+      url: https://larsen.house.gov
+      rss_url: http://larsen.house.gov/rss.xml
+      address: 2163 Rayburn House Office Building Washington DC 20515-4702
+      office: 2163 Rayburn House Office Building
+      phone: 202-225-2605
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: WA
+      district: 2
+      party: Democrat
+      url: https://larsen.house.gov
+      rss_url: http://larsen.house.gov/rss.xml
+      address: 2163 Rayburn House Office Building Washington DC 20515-4702
+      office: 2163 Rayburn House Office Building
+      phone: 202-225-2605
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: WA
+      district: 2
+      party: Democrat
+      url: https://larsen.house.gov
+      rss_url: http://larsen.house.gov/rss.xml
+      address: 2163 Rayburn House Office Building Washington DC 20515-4702
+      office: 2163 Rayburn House Office Building
+      phone: 202-225-2605
+- id:
+    bioguide: M001157
+    thomas: "01804"
+    govtrack: 400654
+    opensecrets: N00026460
+    votesmart: 49210
+    fec:
+      - H4TX10093
+    cspan: 1013056
+    wikipedia: Michael McCaul
+    house_history: 18786
+    ballotpedia: Michael McCaul
+    maplight: 659
+    icpsr: 20530
+    wikidata: Q539509
+    google_entity_id: kg:/m/0492cz
+    pictorial: 13267
+  name:
+    first: Michael
+    middle: T.
+    last: McCaul
+    official_full: Michael T. McCaul
+  bio:
+    birthday: 1962-01-14
+    gender: M
+  terms:
+    - type: rep
+      start: 2005-01-04
+      end: 2007-01-03
+      state: TX
+      district: 10
+      party: Republican
+    - type: rep
+      start: 2007-01-04
+      end: 2009-01-03
+      state: TX
+      district: 10
+      party: Republican
+      url: http://www.house.gov/mccaul
+    - type: rep
+      start: 2009-01-06
+      end: 2011-01-03
+      state: TX
+      district: 10
+      party: Republican
+      url: http://www.house.gov/mccaul
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: TX
+      district: 10
+      party: Republican
+      url: http://www.house.gov/mccaul
+      address: 131 Cannon HOB; Washington DC 20515-4310
+      phone: 202-225-2401
+      fax: 202-225-5955
+      contact_form: http://www.house.gov/writerep
+      office: 131 Cannon House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: TX
+      party: Republican
+      district: 10
+      url: http://mccaul.house.gov
+      address: 131 Cannon HOB; Washington DC 20515-4310
+      phone: 202-225-2401
+      fax: 202-225-5955
+      contact_form: https://mccaul.house.gov/contact/email-me
+      office: 131 Cannon House Office Building
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: TX
+      party: Republican
+      district: 10
+      url: http://mccaul.house.gov
+      address: 131 Cannon HOB; Washington DC 20515-4310
+      phone: 202-225-2401
+      fax: 202-225-5955
+      contact_form: https://mccaul.house.gov/contact/email-me
+      office: 131 Cannon House Office Building
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: TX
+      district: 10
+      party: Republican
+      phone: 202-225-2401
+      url: https://mccaul.house.gov
+      address: 2001 Rayburn House Office Building; Washington DC 20515-4310
+      office: 2001 Rayburn House Office Building
+      fax: 202-225-5955
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: TX
+      district: 10
+      party: Republican
+      phone: 202-225-2401
+      address: 2001 Rayburn House Office Building Washington DC 20515-4310
+      office: 2001 Rayburn House Office Building
+      url: https://mccaul.house.gov
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: TX
+      district: 10
+      party: Republican
+      url: https://mccaul.house.gov
+      address: 2001 Rayburn House Office Building Washington DC 20515-4310
+      office: 2001 Rayburn House Office Building
+      phone: 202-225-2401
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: TX
+      district: 10
+      party: Republican
+      url: https://mccaul.house.gov
+      address: 2300 Rayburn House Office Building Washington DC 20515-4310
+      office: 2300 Rayburn House Office Building
+      phone: 202-225-2401
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: TX
+      district: 10
+      party: Republican
+      url: https://mccaul.house.gov
+      address: 2300 Rayburn House Office Building Washington DC 20515-4310
+      office: 2300 Rayburn House Office Building
+      phone: 202-225-2401
+- id:
+    bioguide: R000395
+    thomas: "00977"
+    govtrack: 400340
+    opensecrets: N00003473
+    votesmart: 26875
+    icpsr: 14854
+    fec:
+      - H0KY05015
+    cspan: 6739
+    wikipedia: Hal Rogers
+    house_history: 20573
+    ballotpedia: Harold Rogers
+    maplight: 434
+    wikidata: Q547153
+    google_entity_id: kg:/m/025jnx
+    pictorial: 13067
+  name:
+    first: Harold
+    last: Rogers
+    nickname: Hal
+    official_full: Harold Rogers
+  bio:
+    birthday: 1937-12-31
+    gender: M
+  terms:
+    - type: rep
+      start: 1981-01-05
+      end: 1983-01-03
+      state: KY
+      district: 5
+      party: Republican
+    - type: rep
+      start: 1983-01-03
+      end: 1985-01-03
+      state: KY
+      district: 5
+      party: Republican
+    - type: rep
+      start: 1985-01-03
+      end: 1987-01-03
+      state: KY
+      district: 5
+      party: Republican
+    - type: rep
+      start: 1987-01-06
+      end: 1989-01-03
+      state: KY
+      district: 5
+      party: Republican
+    - type: rep
+      start: 1989-01-03
+      end: 1991-01-03
+      state: KY
+      district: 5
+      party: Republican
+    - type: rep
+      start: 1991-01-03
+      end: 1993-01-03
+      state: KY
+      district: 5
+      party: Republican
+    - type: rep
+      start: 1993-01-05
+      end: 1995-01-03
+      state: KY
+      district: 5
+      party: Republican
+    - type: rep
+      start: 1995-01-04
+      end: 1997-01-03
+      state: KY
+      district: 5
+      party: Republican
+    - type: rep
+      start: 1997-01-07
+      end: 1999-01-03
+      state: KY
+      district: 5
+      party: Republican
+    - type: rep
+      start: 1999-01-06
+      end: 2001-01-03
+      state: KY
+      district: 5
+      party: Republican
+    - type: rep
+      start: 2001-01-03
+      end: 2003-01-03
+      state: KY
+      district: 5
+      party: Republican
+    - type: rep
+      start: 2003-01-07
+      end: 2005-01-03
+      state: KY
+      district: 5
+      party: Republican
+      url: http://www.house.gov/rogers
+    - type: rep
+      start: 2005-01-04
+      end: 2007-01-03
+      state: KY
+      district: 5
+      party: Republican
+      url: http://www.house.gov/rogers
+    - type: rep
+      start: 2007-01-04
+      end: 2009-01-03
+      state: KY
+      district: 5
+      party: Republican
+      url: http://halrogers.house.gov
+    - type: rep
+      start: 2009-01-06
+      end: 2011-01-03
+      state: KY
+      district: 5
+      party: Republican
+      url: http://halrogers.house.gov
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: KY
+      district: 5
+      party: Republican
+      url: http://halrogers.house.gov
+      address: 2406 Rayburn HOB; Washington DC 20515-1705
+      phone: 202-225-4601
+      fax: 202-225-0940
+      contact_form: http://halrogers.house.gov/Contact.aspx
+      office: 2406 Rayburn House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: KY
+      party: Republican
+      district: 5
+      url: http://halrogers.house.gov
+      address: 2406 Rayburn HOB; Washington DC 20515-1705
+      phone: 202-225-4601
+      fax: 202-225-0940
+      contact_form: https://halrogers.house.gov/contact/contactform.htm
+      office: 2406 Rayburn House Office Building
+      rss_url: http://halrogers.house.gov/news/rss.aspx
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: KY
+      party: Republican
+      district: 5
+      url: http://halrogers.house.gov
+      address: 2406 Rayburn HOB; Washington DC 20515-1705
+      phone: 202-225-4601
+      fax: 202-225-0940
+      contact_form: https://halrogers.house.gov/contact/contactform.htm
+      office: 2406 Rayburn House Office Building
+      rss_url: http://halrogers.house.gov/news/rss.aspx
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: KY
+      district: 5
+      party: Republican
+      phone: 202-225-4601
+      url: https://halrogers.house.gov
+      rss_url: http://halrogers.house.gov/news/rss.aspx
+      address: 2406 Rayburn House Office Building; Washington DC 20515-1705
+      office: 2406 Rayburn House Office Building
+      fax: 202-225-0940
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: KY
+      district: 5
+      party: Republican
+      phone: 202-225-4601
+      address: 2406 Rayburn House Office Building Washington DC 20515-1705
+      office: 2406 Rayburn House Office Building
+      url: https://halrogers.house.gov
+      rss_url: http://halrogers.house.gov/news/rss.aspx
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: KY
+      district: 5
+      party: Republican
+      url: https://halrogers.house.gov
+      rss_url: http://halrogers.house.gov/news/rss.aspx
+      address: 2406 Rayburn House Office Building Washington DC 20515-1705
+      office: 2406 Rayburn House Office Building
+      phone: 202-225-4601
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: KY
+      district: 5
+      party: Republican
+      url: https://halrogers.house.gov
+      rss_url: http://halrogers.house.gov/news/rss.aspx
+      address: 2406 Rayburn House Office Building Washington DC 20515-1705
+      office: 2406 Rayburn House Office Building
+      phone: 202-225-4601
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: KY
+      district: 5
+      party: Republican
+      url: https://halrogers.house.gov
+      rss_url: http://halrogers.house.gov/news/rss.aspx
+      address: 2406 Rayburn House Office Building Washington DC 20515-1705
+      office: 2406 Rayburn House Office Building
+      phone: 202-225-4601
+- id:
+    bioguide: S001183
+    thomas: "01994"
+    govtrack: 412399
+    opensecrets: N00006460
+    votesmart: 106387
+    fec:
+      - H4AZ06045
+      - H8AZ05097
+    cspan: 5205
+    wikipedia: David Schweikert
+    ballotpedia: David Schweikert
+    maplight: 1413
+    icpsr: 21105
+    house_history: 22621
+    wikidata: Q1176561
+    google_entity_id: kg:/m/03wbpxj
+    pictorial: 12906
+  name:
+    first: David
+    last: Schweikert
+    official_full: David Schweikert
+  bio:
+    birthday: 1962-03-03
+    gender: M
+  terms:
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: AZ
+      district: 5
+      party: Republican
+      url: http://schweikert.house.gov/
+      address: 1205 Longworth HOB; Washington DC 20515-0305
+      phone: 202-225-2190
+      office: 1205 Longworth House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: AZ
+      party: Republican
+      district: 6
+      url: http://schweikert.house.gov
+      address: 1205 Longworth HOB; Washington DC 20515-0306
+      phone: 202-225-2190
+      office: 1205 Longworth House Office Building
+      rss_url: http://schweikert.house.gov/rss/press-releases.xml
+      contact_form: https://schweikert.house.gov/contact-form
+      fax: 202-225-0096
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: AZ
+      party: Republican
+      district: 6
+      url: http://schweikert.house.gov
+      address: 409 Cannon HOB; Washington DC 20515-0306
+      phone: 202-225-2190
+      office: 409 Cannon House Office Building
+      rss_url: http://schweikert.house.gov/rss/press-releases.xml
+      contact_form: https://schweikert.house.gov/contact-form
+      fax: 202-225-0096
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: AZ
+      district: 6
+      party: Republican
+      phone: 202-225-2190
+      url: https://schweikert.house.gov
+      rss_url: http://schweikert.house.gov/rss/press-releases.xml
+      address: 2059 Rayburn House Office Building; Washington DC 20515-0306
+      office: 2059 Rayburn House Office Building
+      fax: 202-225-0096
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: AZ
+      district: 6
+      party: Republican
+      phone: 202-225-2190
+      address: 1526 Longworth House Office Building Washington DC 20515-0306
+      office: 1526 Longworth House Office Building
+      url: https://schweikert.house.gov
+      rss_url: http://schweikert.house.gov/rss/press-releases.xml
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: AZ
+      district: 6
+      party: Republican
+      url: https://schweikert.house.gov
+      rss_url: http://schweikert.house.gov/rss/press-releases.xml
+      address: 304 Cannon House Office Building Washington DC 20515-0306
+      office: 304 Cannon House Office Building
+      phone: 202-225-2190
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: AZ
+      district: 1
+      party: Republican
+      url: https://schweikert.house.gov
+      rss_url: http://schweikert.house.gov/rss/press-releases.xml
+      address: 460 Cannon House Office Building Washington DC 20515-0301
+      office: 460 Cannon House Office Building
+      phone: 202-225-2190
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: AZ
+      district: 1
+      party: Republican
+      url: https://schweikert.house.gov
+      rss_url: http://schweikert.house.gov/rss/press-releases.xml
+      address: 166 Cannon House Office Building Washington DC 20515-0301
+      office: 166 Cannon House Office Building
+      phone: 202-225-2190
+- id:
+    bioguide: S000185
+    thomas: "01037"
+    govtrack: 400364
+    opensecrets: N00002147
+    votesmart: 27117
+    fec:
+      - H6VA01117
+    cspan: 25888
+    wikipedia: Bobby Scott (politician)
+    ballotpedia: Robert C. Scott
+    maplight: 455
+    icpsr: 39307
+    house_history: 21368
+    wikidata: Q888668
+    google_entity_id: kg:/m/03twgl
+    pictorial: 13302
+  name:
+    first: Robert
+    middle: C.
+    last: Scott
+    nickname: Bobby
+    official_full: Robert C. "Bobby" Scott
+  bio:
+    birthday: 1947-04-30
+    gender: M
+  terms:
+    - type: rep
+      start: 1993-01-05
+      end: 1995-01-03
+      state: VA
+      district: 3
+      party: Democrat
+    - type: rep
+      start: 1995-01-04
+      end: 1997-01-03
+      state: VA
+      district: 3
+      party: Democrat
+    - type: rep
+      start: 1997-01-07
+      end: 1999-01-03
+      state: VA
+      district: 3
+      party: Democrat
+    - type: rep
+      start: 1999-01-06
+      end: 2001-01-03
+      state: VA
+      district: 3
+      party: Democrat
+    - type: rep
+      start: 2001-01-03
+      end: 2003-01-03
+      state: VA
+      district: 3
+      party: Democrat
+    - type: rep
+      start: 2003-01-07
+      end: 2005-01-03
+      state: VA
+      district: 3
+      party: Democrat
+      url: http://www.house.gov/scott
+    - type: rep
+      start: 2005-01-04
+      end: 2007-01-03
+      state: VA
+      district: 3
+      party: Democrat
+      url: http://www.house.gov/scott
+    - type: rep
+      start: 2007-01-04
+      end: 2009-01-03
+      state: VA
+      district: 3
+      party: Democrat
+      url: http://www.house.gov/scott
+    - type: rep
+      start: 2009-01-06
+      end: 2011-01-03
+      state: VA
+      district: 3
+      party: Democrat
+      url: http://www.house.gov/scott
+    - type: rep
+      start: 2011-01-05
+      end: 2013-01-03
+      state: VA
+      district: 3
+      party: Democrat
+      url: http://www.house.gov/scott
+      address: 1201 Longworth HOB; Washington DC 20515-4603
+      phone: 202-225-8351
+      fax: 202-225-8354
+      contact_form: http://www.house.gov/writerep
+      office: 1201 Longworth House Office Building
+    - type: rep
+      start: 2013-01-03
+      end: 2015-01-03
+      state: VA
+      party: Democrat
+      district: 3
+      url: http://www.bobbyscott.house.gov
+      address: 1201 Longworth HOB; Washington DC 20515-4603
+      phone: 202-225-8351
+      fax: 202-225-8354
+      contact_form: https://bobbyscott.house.gov/email-bobby-scott
+      office: 1201 Longworth House Office Building
+      rss_url: http://www.house.gov/index.php?format=feed&amp;type=rss
+    - type: rep
+      start: 2015-01-06
+      end: 2017-01-03
+      state: VA
+      party: Democrat
+      district: 3
+      url: http://bobbyscott.house.gov
+      address: 1201 Longworth HOB; Washington DC 20515-4603
+      phone: 202-225-8351
+      fax: 202-225-8354
+      contact_form: https://bobbyscott.house.gov/contact/email-me
+      office: 1201 Longworth House Office Building
+      rss_url: http://www.house.gov/index.php?format=feed&amp;type=rss
+    - type: rep
+      start: 2017-01-03
+      end: 2019-01-03
+      state: VA
+      district: 3
+      party: Democrat
+      phone: 202-225-8351
+      url: https://bobbyscott.house.gov
+      rss_url: http://www.house.gov/index.php?format=feed&amp;type=rss
+      address: 1201 Longworth House Office Building; Washington DC 20515-4603
+      office: 1201 Longworth House Office Building
+      fax: 202-225-8354
+    - type: rep
+      start: 2019-01-03
+      end: 2021-01-03
+      state: VA
+      district: 3
+      party: Democrat
+      phone: 202-225-8351
+      address: 1201 Longworth House Office Building Washington DC 20515-4603
+      office: 1201 Longworth House Office Building
+      url: https://bobbyscott.house.gov
+      rss_url: http://www.house.gov/index.php?format=feed&amp;type=rss
+    - type: rep
+      start: 2021-01-03
+      end: 2023-01-03
+      state: VA
+      district: 3
+      party: Democrat
+      url: https://bobbyscott.house.gov
+      rss_url: http://www.house.gov/index.php?format=feed&amp;type=rss
+      address: 2328 Rayburn House Office Building Washington DC 20515-4603
+      office: 2328 Rayburn House Office Building
+      phone: 202-225-8351
+    - type: rep
+      start: 2023-01-03
+      end: 2025-01-03
+      state: VA
+      district: 3
+      party: Democrat
+      url: https://bobbyscott.house.gov
+      rss_url: http://www.house.gov/index.php?format=feed&amp;type=rss
+      address: 2328 Rayburn House Office Building Washington DC 20515-4603
+      office: 2328 Rayburn House Office Building
+      phone: 202-225-8351
+    - type: rep
+      start: 2025-01-03
+      end: 2027-01-03
+      state: VA
+      district: 3
+      party: Democrat
+      url: https://bobbyscott.house.gov
+      rss_url: http://www.house.gov/index.php?format=feed&amp;type=rss
+      address: 2328 Rayburn House Office Building Washington DC 20515-4603
+      office: 2328 Rayburn House Office Building
+      phone: 202-225-8351

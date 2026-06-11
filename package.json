@@ -10,16 +10,21 @@
     "db:migrate": "drizzle-kit migrate",
     "ingest:outlays": "tsx pipelines/ingest-outlays.ts",
     "ingest:geo": "tsx pipelines/ingest-geo-spending.ts",
+    "ingest:members": "tsx pipelines/ingest-members.ts",
+    "ingest:votes": "tsx pipelines/ingest-votes.ts",
+    "ingest:soi": "tsx pipelines/ingest-soi.ts",
     "test": "vitest run",
     "test:watch": "vitest"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.44.2",
+    "fast-xml-parser": "^5.8.0",
     "next": "^15.3.4",
     "postgres": "^3.4.5",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "yaml": "^2.9.0"
   },
   "devDependencies": {
     "@types/node": "^22.15.0",

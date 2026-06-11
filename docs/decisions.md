@@ -27,6 +27,38 @@ Rarity (`src/rarity/engine.ts`) is computed from verifiable numbers — never RN
 
 **Neutrality guard:** scoring extremity instead of direction means a deep donor county and a big recipient county are equally rare — the mechanic never implies that receiving more (or less) federal money is good or bad. Tier names are game-neutral (Common→Legendary). Every factor printed on a card links to its source, same as the receipt.
 
+## D5 — Roll-call source: House Clerk XML + Senate.gov LIS XML (2026-06-11)
+
+**Resolves spec §15 open question #1 (provisionally).** Primary sources are
+**clerk.house.gov/evs/{year}/roll{NNN}.xml** and **senate.gov LIS
+vote_{congress}_{session}_{NNNNN}.xml** — stable public formats with complete
+coverage of every roll call, no key, no beta caveats. The Congress.gov
+house-votes API was still flagged beta in the spec and could not be verified
+from this sandbox (host blocked); revisit only if we later want bill→roll-call
+*discovery* (the starter list pins roll calls explicitly in
+`pipelines/votes-config.ts`).
+
+**Identity model:** House XML carries bioguide ids directly; Senate XML uses
+LIS ids, resolved through `members.lis_id` (sourced from congress-legislators).
+`ingest:members` must run before `ingest:votes`; any unresolvable senator
+aborts the run — a partially scored vote would silently corrupt alignment math.
+
+**VERIFY-AT-FIRST-RUN:** the bill↔roll-number pairs in `votes-config.ts` were
+set offline and are marked in-file; confirm each against clerk.house.gov/Votes
+and senate.gov before trusting real output. `ingest:members` runs live and was
+verified against real data (537 current members, correct party splits).
+
+## D6 — IRS SOI county totals = the "dollars in" side of the local ratio (2026-06-11)
+
+`ingest:soi` pulls the IRS Statistics of Income **county** file
+(`{yy}incyallnoagi.csv`): returns filed, AGI, and income tax per county.
+Joined to `geo_spending` on 5-digit FIPS it yields **dollars back per $100
+paid in** per county — the rarity engine's main local variance source
+(`src/rarity/local.ts`). Column choice: `A06500` (income tax after credits);
+`A10300` (total tax liability) is the documented fallback. Built offline;
+verify column names and latest vintage on first live run (fails loudly,
+listing actual columns).
+
 ## D4 — Local Postgres 16 for dev/CI parity (2026-06-11)
 
 Dev and tests run against any `DATABASE_URL` (local Postgres in the sandbox, Neon in real environments). Pipelines accept an injectable fetcher; `PIPELINE_FIXTURES=1` runs them from recorded fixtures in `pipelines/fixtures/` for offline dev and deterministic CI.

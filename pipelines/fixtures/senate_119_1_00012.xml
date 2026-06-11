@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<roll_call_vote>
+  <congress>119</congress>
+  <session>1</session>
+  <congress_year>2025</congress_year>
+  <vote_number>00012</vote_number>
+  <vote_date>January 20, 2025, 05:34 PM</vote_date>
+  <question>On Passage of the Bill</question>
+  <vote_result>Bill Passed</vote_result>
+  <document><document_name>S. 5</document_name></document>
+  <members>
+    <member><member_full>Cantwell (D-WA)</member_full><last_name>Cantwell</last_name><first_name>X</first_name><party>D</party><state>WA</state><vote_cast>Nay</vote_cast><lis_member_id>S275</lis_member_id></member>
+    <member><member_full>Cornyn (R-TX)</member_full><last_name>Cornyn</last_name><first_name>X</first_name><party>R</party><state>TX</state><vote_cast>Yea</vote_cast><lis_member_id>S287</lis_member_id></member>
+    <member><member_full>McConnell (R-KY)</member_full><last_name>McConnell</last_name><first_name>X</first_name><party>R</party><state>KY</state><vote_cast>Not Voting</vote_cast><lis_member_id>S174</lis_member_id></member>
+    <member><member_full>Warner (D-VA)</member_full><last_name>Warner</last_name><first_name>X</first_name><party>D</party><state>VA</state><vote_cast>Yea</vote_cast><lis_member_id>S327</lis_member_id></member>
+    <member><member_full>Heinrich (D-NM)</member_full><last_name>Heinrich</last_name><first_name>X</first_name><party>D</party><state>NM</state><vote_cast>Nay</vote_cast><lis_member_id>S359</lis_member_id></member>
+    <member><member_full>Lujan (D-NM)</member_full><last_name>Lujan</last_name><first_name>X</first_name><party>D</party><state>NM</state><vote_cast>Yea</vote_cast><lis_member_id>S409</lis_member_id></member>
+    <member><member_full>Murray (D-WA)</member_full><last_name>Murray</last_name><first_name>X</first_name><party>D</party><state>WA</state><vote_cast>Yea</vote_cast><lis_member_id>S229</lis_member_id></member>
+    <member><member_full>Paul (R-KY)</member_full><last_name>Paul</last_name><first_name>X</first_name><party>R</party><state>KY</state><vote_cast>Yea</vote_cast><lis_member_id>S348</lis_member_id></member>
+    <member><member_full>Cruz (R-TX)</member_full><last_name>Cruz</last_name><first_name>X</first_name><party>R</party><state>TX</state><vote_cast>Nay</vote_cast><lis_member_id>S355</lis_member_id></member>
+    <member><member_full>Kaine (D-VA)</member_full><last_name>Kaine</last_name><first_name>X</first_name><party>D</party><state>VA</state><vote_cast>Yea</vote_cast><lis_member_id>S362</lis_member_id></member>
+    <member><member_full>Gallego (D-AZ)</member_full><last_name>Gallego</last_name><first_name>X</first_name><party>D</party><state>AZ</state><vote_cast>Yea</vote_cast><lis_member_id>S432</lis_member_id></member>
+    <member><member_full>Kelly (D-AZ)</member_full><last_name>Kelly</last_name><first_name>X</first_name><party>D</party><state>AZ</state><vote_cast>Yea</vote_cast><lis_member_id>S406</lis_member_id></member>
+  </members>
+</roll_call_vote>

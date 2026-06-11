@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rollcall-vote>
+  <vote-metadata>
+    <majority>R</majority>
+    <congress>119</congress>
+    <session>1st</session>
+    <chamber>U.S. House of Representatives</chamber>
+    <rollcall-num>145</rollcall-num>
+    <legis-num>H R 4</legis-num>
+    <vote-question>On Passage</vote-question>
+    <vote-type>YEA-AND-NAY</vote-type>
+    <vote-result>Passed</vote-result>
+    <action-date>12-Jun-2025</action-date>
+    <totals-by-vote>
+      <total-stub>Totals</total-stub>
+      <yea-total>6</yea-total>
+      <nay-total>4</nay-total>
+      <present-total>1</present-total>
+      <not-voting-total>1</not-voting-total>
+    </totals-by-vote>
+  </vote-metadata>
+  <vote-data>
+    <recorded-vote><legislator name-id="C001051" sort-field="Carter" unaccented-name="Carter" party="R" state="TX" role="legislator">Carter</legislator><vote>Yea</vote></recorded-vote>
+    <recorded-vote><legislator name-id="C001063" sort-field="Cuellar" unaccented-name="Cuellar" party="D" state="TX" role="legislator">Cuellar</legislator><vote>Nay</vote></recorded-vote>
+    <recorded-vote><legislator name-id="D000399" sort-field="Doggett" unaccented-name="Doggett" party="D" state="TX" role="legislator">Doggett</legislator><vote>Nay</vote></recorded-vote>
+    <recorded-vote><legislator name-id="G000565" sort-field="Gosar" unaccented-name="Gosar" party="R" state="AZ" role="legislator">Gosar</legislator><vote>Yea</vote></recorded-vote>
+    <recorded-vote><legislator name-id="G000553" sort-field="Green" unaccented-name="Green" party="D" state="TX" role="legislator">Green</legislator><vote>Nay</vote></recorded-vote>
+    <recorded-vote><legislator name-id="G000568" sort-field="Griffith" unaccented-name="Griffith" party="R" state="VA" role="legislator">Griffith</legislator><vote>Not Voting</vote></recorded-vote>
+    <recorded-vote><legislator name-id="G000558" sort-field="Guthrie" unaccented-name="Guthrie" party="R" state="KY" role="legislator">Guthrie</legislator><vote>Yea</vote></recorded-vote>
+    <recorded-vote><legislator name-id="L000560" sort-field="Larsen" unaccented-name="Larsen" party="D" state="WA" role="legislator">Larsen</legislator><vote>Present</vote></recorded-vote>
+    <recorded-vote><legislator name-id="M001157" sort-field="McCaul" unaccented-name="McCaul" party="R" state="TX" role="legislator">McCaul</legislator><vote>Yea</vote></recorded-vote>
+    <recorded-vote><legislator name-id="R000395" sort-field="Rogers" unaccented-name="Rogers" party="R" state="KY" role="legislator">Rogers</legislator><vote>Yea</vote></recorded-vote>
+    <recorded-vote><legislator name-id="S001183" sort-field="Schweikert" unaccented-name="Schweikert" party="R" state="AZ" role="legislator">Schweikert</legislator><vote>Yea</vote></recorded-vote>
+    <recorded-vote><legislator name-id="S000185" sort-field="Scott" unaccented-name="Scott" party="D" state="VA" role="legislator">Scott</legislator><vote>Nay</vote></recorded-vote>
+  </vote-data>
+</rollcall-vote>
