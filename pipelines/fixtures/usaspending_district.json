@@ -1,0 +1,48 @@
+{
+  "scope": "recipient_location",
+  "geo_layer": "district",
+  "results": [
+    {
+      "shape_code": "AZ01",
+      "display_name": "AZ-01",
+      "aggregated_amount": 6100000000,
+      "population": 794611,
+      "per_capita": 7676.71
+    },
+    {
+      "shape_code": "AZ03",
+      "display_name": "AZ-03",
+      "aggregated_amount": 8900000000,
+      "population": 781102,
+      "per_capita": 11394.16
+    },
+    {
+      "shape_code": "VA11",
+      "display_name": "VA-11",
+      "aggregated_amount": 71300000000,
+      "population": 789881,
+      "per_capita": 90266.76
+    },
+    {
+      "shape_code": "CA30",
+      "display_name": "CA-30",
+      "aggregated_amount": 12400000000,
+      "population": 762000,
+      "per_capita": 16272.97
+    },
+    {
+      "shape_code": "NM03",
+      "display_name": "NM-03",
+      "aggregated_amount": 14800000000,
+      "population": 706000,
+      "per_capita": 20963.17
+    },
+    {
+      "shape_code": "KY05",
+      "display_name": "KY-05",
+      "aggregated_amount": 2100000000,
+      "population": 720000,
+      "per_capita": 2916.67
+    }
+  ]
+}

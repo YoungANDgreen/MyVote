@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Individual Income Taxes",
+      "fytd_rcpt_outly_amt": "2700000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Corporation Income Taxes",
+      "fytd_rcpt_outly_amt": "600000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Social Insurance and Retirement Receipts",
+      "fytd_rcpt_outly_amt": "1900000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Excise Taxes",
+      "fytd_rcpt_outly_amt": "110000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Other Receipts",
+      "fytd_rcpt_outly_amt": "290000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Total Receipts",
+      "fytd_rcpt_outly_amt": "5600000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "National Defense",
+      "fytd_rcpt_outly_amt": "886000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "International Affairs",
+      "fytd_rcpt_outly_amt": "75000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "General Science, Space, and Technology",
+      "fytd_rcpt_outly_amt": "42000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Energy",
+      "fytd_rcpt_outly_amt": "30000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Natural Resources and Environment",
+      "fytd_rcpt_outly_amt": "48000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Agriculture",
+      "fytd_rcpt_outly_amt": "38000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Commerce and Housing Credit",
+      "fytd_rcpt_outly_amt": "25000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Transportation",
+      "fytd_rcpt_outly_amt": "145000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Community and Regional Development",
+      "fytd_rcpt_outly_amt": "35000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Education, Training, Employment, and Social Services",
+      "fytd_rcpt_outly_amt": "270000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Health",
+      "fytd_rcpt_outly_amt": "950000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Medicare",
+      "fytd_rcpt_outly_amt": "1100000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Income Security",
+      "fytd_rcpt_outly_amt": "700000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Social Security",
+      "fytd_rcpt_outly_amt": "1520000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Veterans Benefits and Services",
+      "fytd_rcpt_outly_amt": "350000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Administration of Justice",
+      "fytd_rcpt_outly_amt": "80000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "General Government",
+      "fytd_rcpt_outly_amt": "45000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Net Interest",
+      "fytd_rcpt_outly_amt": "950000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Allowances",
+      "fytd_rcpt_outly_amt": "0"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Undistributed Offsetting Receipts",
+      "fytd_rcpt_outly_amt": "-110000"
+    },
+    {
+      "record_date": "2025-09-30",
+      "record_fiscal_year": "2025",
+      "record_calendar_month": "09",
+      "classification_desc": "Total Outlays",
+      "fytd_rcpt_outly_amt": "7179000"
+    }
+  ],
+  "meta": {
+    "count": 27,
+    "total-pages": 1
+  }
+}

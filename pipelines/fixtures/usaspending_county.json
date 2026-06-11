@@ -1,0 +1,76 @@
+{
+  "scope": "recipient_location",
+  "geo_layer": "county",
+  "results": [
+    {
+      "shape_code": "04013",
+      "display_name": "Maricopa County",
+      "aggregated_amount": 31200000000,
+      "population": 4585871,
+      "per_capita": 6803.51
+    },
+    {
+      "shape_code": "04019",
+      "display_name": "Pima County",
+      "aggregated_amount": 9800000000,
+      "population": 1063162,
+      "per_capita": 9217.79
+    },
+    {
+      "shape_code": "04005",
+      "display_name": "Coconino County",
+      "aggregated_amount": 1100000000,
+      "population": 146440,
+      "per_capita": 7511.61
+    },
+    {
+      "shape_code": "51059",
+      "display_name": "Fairfax County",
+      "aggregated_amount": 84200000000,
+      "population": 1138331,
+      "per_capita": 73967.94
+    },
+    {
+      "shape_code": "06037",
+      "display_name": "Los Angeles County",
+      "aggregated_amount": 92500000000,
+      "population": 9663345,
+      "per_capita": 9572.25
+    },
+    {
+      "shape_code": "48201",
+      "display_name": "Harris County",
+      "aggregated_amount": 38900000000,
+      "population": 4835125,
+      "per_capita": 8045.29
+    },
+    {
+      "shape_code": "35028",
+      "display_name": "Los Alamos County",
+      "aggregated_amount": 5400000000,
+      "population": 19419,
+      "per_capita": 278078.17
+    },
+    {
+      "shape_code": "21237",
+      "display_name": "Wolfe County",
+      "aggregated_amount": 98000000,
+      "population": 6562,
+      "per_capita": 14934.47
+    },
+    {
+      "shape_code": "17031",
+      "display_name": "Cook County",
+      "aggregated_amount": 47800000000,
+      "population": 5109292,
+      "per_capita": 9355.5
+    },
+    {
+      "shape_code": "53033",
+      "display_name": "King County",
+      "aggregated_amount": 29100000000,
+      "population": 2271380,
+      "per_capita": 12811.59
+    }
+  ]
+}

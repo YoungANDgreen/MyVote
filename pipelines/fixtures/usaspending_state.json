@@ -1,0 +1,27 @@
+{
+  "scope": "recipient_location",
+  "geo_layer": "state",
+  "results": [
+    {
+      "shape_code": "04",
+      "display_name": "Arizona",
+      "aggregated_amount": 88000000000,
+      "population": 7431344,
+      "per_capita": 11841.73
+    },
+    {
+      "shape_code": "51",
+      "display_name": "Virginia",
+      "aggregated_amount": 178000000000,
+      "population": 8715698,
+      "per_capita": 20422.92
+    },
+    {
+      "shape_code": "06",
+      "display_name": "California",
+      "aggregated_amount": 436000000000,
+      "population": 38965193,
+      "per_capita": 11189.47
+    }
+  ]
+}
